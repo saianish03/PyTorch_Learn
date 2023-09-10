@@ -1,2 +1,3 @@
-# PyTorch_Learn
-Learning Pytorch from the Course Deep Neural Networks with PyTorch
+# Learning PyTorch
+
+Learning Pytorch from the Course Deep Neural Networks with PyTorch and implementing them in JupyterNotebook.
